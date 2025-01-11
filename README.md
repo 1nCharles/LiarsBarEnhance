@@ -1,3 +1,9 @@
+# 建议使用 Suggest to use
+
+由于本人不玩这个游戏了，因此此项目不再活跃，建议使用其他的活跃分支  
+
+https://github.com/Gunly/LiarsBarEnhance
+
 # 中文说明文档
 
 ***English README is in [README_EN.md](README_EN.md)***
