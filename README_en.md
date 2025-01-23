@@ -1,5 +1,7 @@
 # English README
 
+This repo not active, see https://github.com/Gunly/LiarsBarEnhance
+
 ## Open-source License
 
 ***Use [LGPLv2.1](LICENSE.txt) LICENSE***
